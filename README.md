@@ -22,9 +22,9 @@ This repository contains the UCI Wine dataset for practising GitHub.
 | 12 | OD280/OD315 of diluted wines | Optical density ratio of diluted wines |
 | 13 | Proline | Proline content |
 
-## Files
+### Files
 - `wine.csv`: the dataset (renamed from `wine.data`)
 - `wine.names`: dataset description (feature names and class labels)
 
-## Source
+### Source
 Data source: [UCI Machine Learning Repository - Wine Data Set] (https://archive.ics.uci.edu/ml/datasets/wine)
