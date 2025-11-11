@@ -1,7 +1,7 @@
 # CollectingData
 Repository for the course 'collecting data' of the master's program 'Digital Humanities'
  
-# Wine Dataset Practice
+## Wine Dataset Practice
 This repository contains the UCI Wine dataset for practising GitHub.
 
 ## Files
