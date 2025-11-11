@@ -1,9 +1,12 @@
 # CollectingData
 Repository for the course 'collecting data' of the master's program 'Digital Humanities'
+ 
+# Wine Dataset Practice
+This repository contains the UCI Wine dataset for practising GitHub.
 
-This dataset contains chemical analysis results of wines from three cultivars in the same region in Italy.
+## Files
+- `wine.csv`: the dataset (renamed from `wine.data`)
+- `wine.names`: dataset description (feature names and class labels)
 
-- Source: UCI Machine Learning Repository
-- Files:
-  - `wine.csv`: the data
-  - `wine.names`: column descriptions
+## Source
+Data source: [UCI Machine Learning Repository - Wine Data Set] (https://archive.ics.uci.edu/ml/datasets/wine)
